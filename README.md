@@ -1,4 +1,4 @@
-# inventory_supply_chain
+# Inventory_supply_chain
 This project focuses on analyzing inventory and supply chain data using Power BI to help businesses monitor stock levels, supplier performance, and product movement efficiently. The dashboard provides clear and interactive visual insights that support better inventory planning, demand forecasting, and decision-making.
 
 ## Objectives
